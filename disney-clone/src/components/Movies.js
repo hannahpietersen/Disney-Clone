@@ -7,28 +7,28 @@ function Movies() {
       <h4>Recommened for You</h4>
       <Content>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
         <Wrap>
-          <img src="/images/userimg.png" alt="userimg" />
+          <img src="/images/movieimg.png" alt="movieimg" />
         </Wrap>
       </Content>
     </Container>
